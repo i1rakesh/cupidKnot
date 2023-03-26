@@ -9,3 +9,5 @@ To run the project first:
 ### 'npm run dev'
 
 Copy paste the provided link ine the browser
+
+I have used the extra mobile templates provided as well now you can see the diffent mobile images by clicking the steps on the left side of the screen
