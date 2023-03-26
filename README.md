@@ -4,8 +4,8 @@ I hade made this assesment using React + Vite for faster processing and reduce t
 
 To run the project first:
 
-### cd cupidKnot
-npm install
-npm run dev
+### 'cd cupidKnot'
+### 'npm install'
+### 'npm run dev'
 
 Copy paste the provided link ine the browser
